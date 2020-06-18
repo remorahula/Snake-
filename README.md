@@ -1,1 +1,1 @@
-PLAY :  https://remorahula.github.io/Snake
+PLAY :  https://remorahula.github.io/ussimang
